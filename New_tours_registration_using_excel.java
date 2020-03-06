@@ -24,7 +24,7 @@ import org.testng.annotations.Test;
 public class New_tours_registration_using_excel {
 
 	ChromeDriver driver;
-	String baseUrl="http://www.newtours.demoaut.com/";
+	String baseUrl="enter your website name";
 	FileInputStream fis;
 	String location="C:\\Users\\Amul\\Desktop\\docs for job\\eclipse project\\Selenium_Framework\\Excel Files Framework\\Data driven.xlsx";
 	XSSFWorkbook book;
